@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2e5d172-a248-4a11-96a5-7b1b4b30b392" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/barcelona.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_burger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_contacts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_marquee.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_news.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/general/_title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/global/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/global/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/global/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/barcelona/_description.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/barcelona/_info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_association.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_goal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_meetings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_numbers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/pages/basic/_video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HW-17 FINAL SITE/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_34/src/fonts/custom-font.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_34/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_34/src/styles/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson_34/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2ofqyHuKBAY6Z6E6VCuFLTT4dJP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mblyz/OneDrive/Рабочий стол/IT/ДЖАВАСКРИПТ/hw37",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\mblyz\\OneDrive\\Рабочий стол\\IT\\ДЖАВАСКРИПТ\\hw37\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mblyz\OneDrive\Рабочий стол\IT\ДЖАВАСКРИПТ\hw37\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e5d172-a248-4a11-96a5-7b1b4b30b392" name="Changes" comment="" />
+      <created>1731271230890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731271230890</updated>
+      <workItem from="1731271231906" duration="2701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<h1>hello</h1>
+<script type="module" src="main.ts">
+
+    import { createPerson, Calculator, UserProfile } from 'main.ts';
+
+
+    const newPerson = createPerson('Олександр', 31, false);
+    console.log(newPerson); // { name: 'Олександр', age: 31, isActive: false }
+
+
+    const calculator = new Calculator();
+
+    // Тестируем метод add с логированием
+    console.log(calculator.add(2, 3)); // Лог: "Calling "add" with arguments: 2, 3" -> 5
+
+    // Тестируем метод multiply с логированием
+    console.log(calculator.multiply(3, 4)); // Лог: "Calling "multiply" with arguments: 3, 4" -> 12
+
+
+    const profile = UserProfile.createProfile('John Doe', 'john@example.com');
+    console.log(profile); // { id: "unique_id", name: "John Doe", email: "john@example.com" }
+
+</script>
+</body>
+</html>
